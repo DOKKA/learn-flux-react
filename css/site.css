@@ -1,0 +1,18 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#LeftSection {
+    float: left;
+    width: 200px;
+    border: 1px solid black;
+    margin: 0;
+    padding: 0;
+}
+
+#RightSection {
+    border: 1px solid crimson;
+    margin: 0;
+    padding: 0;
+}
